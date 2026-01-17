@@ -9,6 +9,6 @@
 ---
 ## OBS - Currently in demo version 👷 👌 :  Created for bigger screens, zoom out if its an issue :).
 
-#### Demo version available:  https://alawi93.github.io/Visual-Sorting/](https://aliqmuhammed.github.io/Visual-Sorting/
+#### Demo version available:  https://aliqmuhammed.github.io/Visual-Sorting/
 
  
